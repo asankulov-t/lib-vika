@@ -1,0 +1,18 @@
+/* const theme = createTheme({
+    components: {
+      // Name of the component
+      MuiButton: {
+        styleOverrides: {
+          backgound: #000,
+          border: none
+          root: {
+            // Some CSS
+            backgound: #000,
+            border: none
+          },
+        },
+      },
+    },
+  });
+
+  export default theme */
